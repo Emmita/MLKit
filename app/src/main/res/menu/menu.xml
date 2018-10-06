@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/text"
+        android:title="Detect text"/>
+    <item
+        android:id="@+id/barcode"
+        android:title="Read barcode"/>
+    <item
+        android:id="@+id/face"
+        android:title="Detect face"/>
+    <item
+        android:id="@+id/label"
+        android:title="Image label"/>
+
+</menu>
